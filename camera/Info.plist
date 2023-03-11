@@ -21,5 +21,13 @@
 			</array>
 		</dict>
 	</dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSCameraUsageDescription</key>
+	<string>My App would Like to Acess your camera</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>My App would Like to Acess your mic</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>My App would Like to Acess your picture</string>
 </dict>
 </plist>
